@@ -1,0 +1,22 @@
+{
+  "X_terrainInfoFrame": 830,
+  "Y_terrainInfoFrame": 550,
+  "X_troopInfoFrame": 700,
+  "Y_troopInfoFrame": 550,
+  "X_terrainName": 835,
+  "Y_terrainName": 570,
+  "X_troopName": 705,
+  "Y_troopName": 570,
+  "X_life": 750,
+  "Y_life": 630,
+  "X_fuel": 750,
+  "Y_fuel": 670,
+  "X_ammo": 750,
+  "Y_ammo": 710,
+  "X_captPicture": 840,
+  "Y_captPicture": 710,
+  "X_captNumber": 880,
+  "Y_captNumber": 710,
+  "X_defence": 880,
+  "Y_defence": 670
+}

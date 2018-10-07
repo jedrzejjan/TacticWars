@@ -1,0 +1,27 @@
+{
+  "name": "advancedwars",
+  "version": "1.0.0",
+  "description": "advancedWars",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.0-beta4",
+    "node-uuid": "^1.4.8",
+    "nodemon": "^1.17.4",
+    "socket.io": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/jvrbferrer/AdvancedWars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/jvrbferrer/AdvancedWars/issues"
+  },
+  "homepage": "https://gitlab.com/jvrbferrer/AdvancedWars#README"
+}

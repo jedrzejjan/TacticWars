@@ -1,0 +1,76 @@
+{"frames": {
+
+"city.PNG":
+{
+	"frame": {"x":173,"y":39,"w":66,"h":19},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":7,"w":66,"h":19},
+	"sourceSize": {"w":120,"h":45}
+},
+"factory.PNG":
+{
+	"frame": {"x":123,"y":1,"w":119,"h":18},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":7,"w":119,"h":18},
+	"sourceSize": {"w":120,"h":45}
+},
+"forest.PNG":
+{
+	"frame": {"x":1,"y":17,"w":94,"h":15},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":12,"w":94,"h":15},
+	"sourceSize": {"w":120,"h":45}
+},
+"grass.PNG":
+{
+	"frame": {"x":1,"y":34,"w":87,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":8,"w":87,"h":14},
+	"sourceSize": {"w":120,"h":45}
+},
+"hq.PNG":
+{
+	"frame": {"x":193,"y":21,"w":52,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":8,"w":52,"h":16},
+	"sourceSize": {"w":120,"h":45}
+},
+"mountain.PNG":
+{
+	"frame": {"x":1,"y":1,"w":120,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":12,"w":120,"h":14},
+	"sourceSize": {"w":120,"h":45}
+},
+"road.PNG":
+{
+	"frame": {"x":90,"y":37,"w":81,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":7,"w":81,"h":14},
+	"sourceSize": {"w":120,"h":45}
+},
+"water.PNG":
+{
+	"frame": {"x":97,"y":21,"w":94,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":7,"w":94,"h":14},
+	"sourceSize": {"w":120,"h":45}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "terrainNames.png",
+	"format": "RGBA8888",
+	"size": {"w":246,"h":59},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f82ebeab87fbcf6780dbb3426818ecc:0d8089590bbe59ea37bdb76e3db5020f:2c6de423962886d6a433685e8a15e4b1$"
+}
+}

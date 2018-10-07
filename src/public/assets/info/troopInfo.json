@@ -1,0 +1,12 @@
+{
+  "Infantry": "Group of dudes with machine guns. It's only strong against units without vehicles.  Can walk on montains and capitalize though.",
+  "Mech": "Group of dudes with rockets launcher. Their weapons allow them to hurt heavy armor units such as tanks. Can walk on montains and capitalize",
+  "Recon": "Group of dudes with 4x4 cars with machine guns on top. Can move really fast! Unfortunately the machine guns suck agains any armor.",
+  "Tank": "Group of dudes with small tanks. Fast and strong on attack. Don't have the best armor though.",
+  "MdTank": "Group of dudes with big ass tanks. Strong as hell in attack and defense. Just watch out for the ranged troops!",
+  "NeoTank": "Group of gods. Watch out for the ranged troops and they will smash any oposition",
+  "APC": "Group of good dudes. They walk around without being able to attack anyone with nothing but good in their hearts. They can supply fuel and ammo to the troops around and can even transport troops on foot.",
+  "Artry": "Group of dudes with small long ranged weapons. Cheap but can't shoot very far.",
+  "Rockets": "Group of dudes with huuuuge long ranged weapons. Expensive but worth the price if your opponent can't hit them.",
+  "AAir": "Group of people killing machines! Watch out for your infantry!"
+}

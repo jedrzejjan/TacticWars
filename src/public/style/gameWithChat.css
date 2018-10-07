@@ -1,0 +1,45 @@
+button {
+    padding: 10px 40px;
+    border-radius: 0px;
+}
+
+#game-container {
+  width: 29.55%;
+  height: 100%;
+  float: right;
+}
+
+#game {
+    height: 100%;
+    width: 29.55%;
+    background: white;
+    position: absolute;
+    top: 0;
+    color: white;
+    overflow-y: auto;
+}
+
+#game p {
+    padding: 10px;
+}
+
+#game span {
+    float: right;
+    width: 50%;
+}
+
+#chat-box {
+    position: absolute;
+    width: 29.55%;
+    bottom: 0;
+    display: block;
+    background: grey;
+}
+
+#chat-box input {
+    border: none;
+    padding: 10px;
+    margin: 20px;
+    height: 100%;
+    width: 60%;
+}

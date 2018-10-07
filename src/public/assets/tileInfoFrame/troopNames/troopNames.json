@@ -1,0 +1,124 @@
+{"frames": {
+
+"aair.PNG":
+{
+	"frame": {"x":0,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"apc.PNG":
+{
+	"frame": {"x":120,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"artry.PNG":
+{
+	"frame": {"x":240,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"bcopter.PNG":
+{
+	"frame": {"x":360,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"bomber.PNG":
+{
+	"frame": {"x":480,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"infantry.PNG":
+{
+	"frame": {"x":600,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"mdtank.PNG":
+{
+	"frame": {"x":720,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"mech.PNG":
+{
+	"frame": {"x":840,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"missile.PNG":
+{
+	"frame": {"x":960,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"neotank.PNG":
+{
+	"frame": {"x":1080,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"recon.PNG":
+{
+	"frame": {"x":1200,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"rockets.PNG":
+{
+	"frame": {"x":1320,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"tank.PNG":
+{
+	"frame": {"x":1440,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+},
+"tcopter.PNG":
+{
+	"frame": {"x":1560,"y":0,"w":120,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":120,"h":45},
+	"sourceSize": {"w":120,"h":45}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "troopNamesss.png",
+	"format": "RGBA8888",
+	"size": {"w":1680,"h":45},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:98697bba4c4667983c7da562c1248029:c2463e7e2e50ddcfd547661aaa526fc0:29e94c71bd8ddad7a8824900f056a2d8$"
+}
+}

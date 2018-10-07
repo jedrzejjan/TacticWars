@@ -1,0 +1,243 @@
+html {
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+.canvas-hidden{
+  display: none !important;
+}
+
+#debug {
+    background: black;
+    color: white;
+    font-family: Menlo;
+    width: 800px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 12px;
+    max-height: 170px;
+    overflow-y: auto;
+}
+
+#banner{
+  float: right;
+  width:28.74%;
+  height: 759px;
+  margin-bottom: -3em;
+}
+
+button {
+    padding: 10px 40px;
+    border-radius: 0px;
+}
+
+#game-container {
+    width: 70%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: auto;
+    z-index: -1
+}
+
+#game-list-options {
+    width: 100%;
+    padding: 20px;
+    position: absolute;
+    bottom: 0px;
+    background: #6F6F6F;
+    text-align: center;
+}
+
+#game-list {
+    height: 80%;
+    max-height: 80%;
+    overflow-y: auto;
+}
+
+#game-list table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+#game-list table th {
+    background: #6f6f6f;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+#game-list table td,
+#game-list table th {
+    padding: 20px;
+    text-align: left;
+}
+
+#game-list table td:last-child,
+#game-list table th:last-child {
+    text-align: right;
+}
+
+#game-list table tr {
+    background: #f3f3f3;
+}
+
+#game-list table tr:nth-child(odd) {
+    background: #dadada;
+}
+
+#game {
+    height: 100%;
+    width: 100%;
+    background: white;
+    position: absolute;
+    top: 0;
+    color: white;
+    overflow-y: auto;
+}
+
+#game p {
+    padding: 10px;
+}
+
+#game span {
+    float: right;
+}
+
+#chat-box {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    display: block;
+    background: grey;
+}
+
+#chat-box input {
+    border: none;
+    padding: 10px;
+    margin: 20px;
+    width: 70%;
+}
+
+#ola {
+ margin-left: 2%;
+}
+
+/*
+#game-container {
+  width: 29.55%;
+  height: 100%;
+  float: right;
+}
+
+#game-container-after-start-game{
+  width: 29.55%;
+  position: relative;
+  height: 100%;
+  float: right;
+  margin: auto;
+}
+
+#game-list-options {
+    width: 29.55%;
+    padding: 20px;
+    position: absolute;
+    bottom: 0px;
+    background: #6F6F6F;
+    text-align: center;
+}
+
+#game-list {
+    height: 527px;
+    max-height: 527px;
+    overflow-y: auto;
+}
+
+#game-list table {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+#game-list table th {
+    background: #6f6f6f;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+#game-list table td,
+#game-list table th {
+    padding: 20px;
+    text-align: left;
+}
+
+#game-list table td:last-child,
+#game-list table th:last-child {
+    text-align: right;
+}
+
+#game-list table tr {
+    background: #f3f3f3;
+}
+
+#game-list table tr:nth-child(odd) {
+    background: #dadada;
+}
+
+#debug {
+    background: black;
+    color: white;
+    font-family: Menlo;
+    width: 800px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    font-size: 12px;
+    max-height: 170px;
+    overflow-y: auto;
+}
+
+#game {
+    height: 100%;
+    width: 29.55%;
+    background: black;
+    position: absolute;
+    top: 0;
+    color: white;
+    overflow-y: auto;
+}
+
+#game p {
+    padding: 10px;
+}
+
+#game span {
+    float: right;
+}
+
+#chat-box {
+    position: absolute;
+    width: 29.55%;
+    bottom: 0;
+    display: block;
+    background: grey;
+}
+
+#chat-box input {
+    border: none;
+    padding: 10px;
+    margin: 20px;
+    height: 100%;
+    width: 60%;
+}
+*/

@@ -1,0 +1,12 @@
+{
+  "Infantry": 1000,
+  "Mech": 3000,
+  "Recon": 4000,
+  "Tank": 7000,
+  "MdTank": 16000,
+  "NeoTank": 22000,
+  "APC": 5000,
+  "Artry": 6000,
+  "Rockets": 15000,
+  "AAir": 8000
+}
